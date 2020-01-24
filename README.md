@@ -1,5 +1,5 @@
-# Three.js Demo1
-### A simple demo that prints a box and uses OrbitControls to move the camera
+# Three.js Demo2
+A simple demo that prints a box and uses OrbitControls to move the camera
 
 
 ## OrbitControls
@@ -18,15 +18,17 @@ Pan - right mouse, or left mouse + ctrl/meta/shiftKey, or arrow keys / touch: tw
 
 
 
+### How to use
 
 Download or clone and open "index.html"
 
 or visit the live demo here:
 [live demo](https://pjbelo.github.io/threejs-demo2/)
 
-License: MIT
+### License
+MIT
 
-Credits:
+### Credits
 
 [Three.js](https://threejs.org/)
 
